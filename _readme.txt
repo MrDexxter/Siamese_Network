@@ -1,0 +1,2 @@
+Siamese Networks are the most basic and common structures of most CNNs. This repository is built to explore and built a simple siamese network and built a classifier over it using pytorch library.
+I have also shared the paper for reference.
